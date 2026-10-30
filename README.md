@@ -56,5 +56,5 @@ Dev Tools:    Git, Docker, Postman, Linux, Nginx
 
 ### 🤝 Let's Collaborate
 
-I'm open to freelance work, internships, or full-time remote roles.  
+I'm open to freelance work, or full-time/part-time remote roles.  
 Feel free to connect — I love working on meaningful, technically challenging projects. 🚀
